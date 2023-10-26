@@ -1,3 +1,10 @@
+/* Grid Setup for Cards */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
 /* Default Styles for All Viewports */
 .border{
     text-align: left;
